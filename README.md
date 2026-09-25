@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/tea-leaves00/meet-landing-page)
+- [Live Site](https://tea-leaves00.github.io/meet-landing-page/)
 
 ## My process
 
@@ -88,4 +88,4 @@ What worked well was giving it clear reference screenshots for each screen size.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@tea-leaves00](https://www.frontendmentor.io/profile/tea-leaves00)
